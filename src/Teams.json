@@ -1,0 +1,22 @@
+{"get":"teams","parameters":{"league":"78","season":"2022-2023"}
+,"errors":[]
+,"results":18
+,"response":[
+{"id":969,"name":"Athletic Constanta","logo":"https:\/\/media.api-sports.io\/basketball\/teams\/969.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media.api-sports.io\/flags\/ro.svg"}}
+,{"id":1648,"name":"BC Mures Targu","logo":"https:\/\/media.api-sports.io\/basketball\/teams\/1648.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media.api-sports.io\/flags\/ro.svg"}}
+,{"id":970,"name":"BC Steaua Bucuresti","logo":"https:\/\/media-1.api-sports.io\/basketball\/teams\/970.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media.api-sports.io\/flags\/ro.svg"}}
+,{"id":971,"name":"BC Timisoara","logo":"https:\/\/media-1.api-sports.io\/basketball\/teams\/971.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media.api-sports.io\/flags\/ro.svg"}}
+,{"id":972,"name":"BCM Pitesti","logo":"https:\/\/media.api-sports.io\/basketball\/teams\/972.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media-1.api-sports.io\/flags\/ro.svg"}}
+,{"id":3419,"name":"Cluj-Napoca","logo":"https:\/\/media-1.api-sports.io\/basketball\/teams\/3419.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media-1.api-sports.io\/flags\/ro.svg"}}
+,{"id":973,"name":"CSM Focsani","logo":"https:\/\/media.api-sports.io\/basketball\/teams\/973.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media-1.api-sports.io\/flags\/ro.svg"}}
+,{"id":975,"name":"CSM Oradea","logo":"https:\/\/media-1.api-sports.io\/basketball\/teams\/975.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media-1.api-sports.io\/flags\/ro.svg"}}
+,{"id":2484,"name":"CSM Targu Jiu","logo":"https:\/\/media-1.api-sports.io\/basketball\/teams\/2484.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media.api-sports.io\/flags\/ro.svg"}}
+,{"id":976,"name":"CSU Sibiu","logo":"https:\/\/media.api-sports.io\/basketball\/teams\/976.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media.api-sports.io\/flags\/ro.svg"}}
+,{"id":978,"name":"Dinamo Bucharest","logo":"https:\/\/media.api-sports.io\/basketball\/teams\/978.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media-1.api-sports.io\/flags\/ro.svg"}}
+,{"id":5620,"name":"Laguna Bucuresti","logo":"https:\/\/media.api-sports.io\/basketball\/teams\/5620.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media-1.api-sports.io\/flags\/ro.svg"}}
+,{"id":979,"name":"Miercurea Ciuc","logo":"https:\/\/media.api-sports.io\/basketball\/teams\/979.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media.api-sports.io\/flags\/ro.svg"}}
+,{"id":980,"name":"Municipal Galati","logo":"https:\/\/media-1.api-sports.io\/basketball\/teams\/980.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media-1.api-sports.io\/flags\/ro.svg"}}
+,{"id":4007,"name":"Petrolul Ploiesti","logo":"https:\/\/media-1.api-sports.io\/basketball\/teams\/4007.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media-1.api-sports.io\/flags\/ro.svg"}}
+,{"id":1651,"name":"Rapid Bucuresti","logo":"https:\/\/media-1.api-sports.io\/basketball\/teams\/1651.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media-1.api-sports.io\/flags\/ro.svg"}}
+,{"id":981,"name":"SCM Craiova","logo":"https:\/\/media.api-sports.io\/basketball\/teams\/981.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media-1.api-sports.io\/flags\/ro.svg"}}
+,{"id":983,"name":"Voluntari","logo":"https:\/\/media.api-sports.io\/basketball\/teams\/983.png","nationnal":false,"country":{"id":38,"name":"Romania","code":"RO","flag":"https:\/\/media-1.api-sports.io\/flags\/ro.svg"}}]}
